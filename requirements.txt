@@ -1,0 +1,10 @@
+
+langchain
+langchain-community
+langchain-pinecone
+PyPDF
+langchain-openai 
+tiktoken
+pinecone-client
+
+. e
